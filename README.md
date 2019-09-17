@@ -14,7 +14,9 @@ Explanation -
 GETTING B:
 
 Common Uses - 
+
 Rare Uses - 
+
 Does the interface make doing those common things easier?
 
 What is the common sequence of actions?
