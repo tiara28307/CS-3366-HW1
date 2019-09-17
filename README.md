@@ -25,6 +25,8 @@ Common Uses -
 4) Some parking garages use elevators to get people and cars from one floor to the next.
 
 Rare Uses - 
+1) Stage lift elevator to raise and lower sections of a stage.
+2) Dummbwaiters are small elevators used to transport small objects or loads like food or books.
 
 Does the interface make doing those common things easier?
 
