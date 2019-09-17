@@ -19,6 +19,10 @@ When entering the elevator the control panel to go up and down has no arrows it 
 GETTING B:
 
 Common Uses - 
+1) Form of transport for people from one floor to the next.
+2) Moving heavy objects from one floor to another for example in construction work.
+3) Express elevators used to move people from lobby floor to one of the highest floors skipping over other floors.
+4) Some parking garages use elevators to get people and cars from one floor to the next.
 
 Rare Uses - 
 
