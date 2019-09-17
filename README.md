@@ -31,5 +31,7 @@ Sketch your solution. And justify your design decisions.
 
 
 
+
 GETTING A:
+
 What is the screen size that you want?
