@@ -29,14 +29,21 @@ Rare Uses -
 2) Dummbwaiters are small elevators used to transport small objects or loads like food or books.
 
 Does the interface make doing those common things easier?
+Yes because it allows the user to know where they are transporting to.
 
 What is the common sequence of actions?
+User presses up or down button. Elevator doors open. User presses another button depending on what floor they want to go to. Elevator rises or lowers. Once floor is reached elevator doors open on new floor. 
 
 How does the elevator support the user figure out how to make it work?
+The usage of buttons, numbers, and simple descriptions of what each floor is for.
 
 How does the elevator provide feedback to the user?
+Color visuals and sound. When a button is pressed it lights up to show that it has been pressed. Sound when elevator doors open and close. 
 
 What are some common mistakes you can make with this current design?
+Outside control panel you can accidently press the wrong button when trying to go up or down.
+The buttons are side by side and up and down in the elevator so can be confusing on what direction is which.
+Some buttons have numbers while others only have letters for example Ground Floor is represented by a G.
 
 Sketch your solution. And justify your design decisions.
 
