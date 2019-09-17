@@ -11,9 +11,10 @@ GETTING C:
 
 
 Issues with design - 
+This is the control interface for Texas Tech's library elevator. The design is confusing and misleading. Important details are excluded from the design.
 
 Explanation - 
-
+When entering the elevator the control panel to go up and down has no arrows it is based on the assumption that the top button should go up and the bottom goes down. When pressing the outside control panel it is connected to both elevators so either one could open as seen in the gif the elevator I was standing at did not open the one to the left did.
 
 GETTING B:
 
