@@ -4,6 +4,7 @@ TiAra Carroll (#73)
 GETTING C:
 
 ![Elevator2](https://user-images.githubusercontent.com/36643475/65015526-6f6d7480-d8e7-11e9-9bab-03b23e18dada.jpg)
+![Elevator3](https://user-images.githubusercontent.com/36643475/65015591-91ff8d80-d8e7-11e9-8428-1b708ff76acb.jpg)
 
 
 
