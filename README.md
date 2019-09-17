@@ -1,7 +1,7 @@
-# CS-3366-HW1
-The Elevator Interface
+# CS-3366-HW1 The Elevator Interface
+TiAra Carroll (#73)
 
-Getting C:
+GETTING C:
 
 
 
@@ -9,7 +9,7 @@ Issues with design -
 
 Explanation - 
 
-Getting B:
+GETTING B:
 Common Uses - 
 Rare Uses - 
 Does the interface make doing those common things easier?
@@ -26,5 +26,5 @@ Sketch your solution. And justify your design decisions.
 
 
 
-Getting A:
+GETTING A:
 What is the screen size that you want?
