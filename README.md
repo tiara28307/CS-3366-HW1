@@ -46,8 +46,7 @@ The buttons are side by side and up and down in the elevator so can be confusing
 Some buttons have numbers while others only have letters for example Ground Floor is represented by a G.
 
 Sketch your solution. And justify your design decisions.
-
-
+Attached in email submission.
 
 
 GETTING A:
