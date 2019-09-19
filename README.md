@@ -52,5 +52,4 @@ Sketch your solution. And justify your design decisions.
 
 GETTING A:
 
-Screen size - 
-Link to design - 
+USB Drive in class presentation
