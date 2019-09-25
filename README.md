@@ -53,3 +53,4 @@ If does not load attached in email submission.
 GETTING A:
 
 USB Drive in class presentation
+![hw1 73_Carroll](https://user-images.githubusercontent.com/36643475/65628619-71929b80-df97-11e9-9836-14ad89ad99f2.gif)
