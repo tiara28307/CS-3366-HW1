@@ -45,8 +45,9 @@ Outside control panel you can accidently press the wrong button when trying to g
 The buttons are side by side and up and down in the elevator so can be confusing on what direction is which.
 Some buttons have numbers while others only have letters for example Ground Floor is represented by a G.
 
-Sketch your solution. And justify your design decisions.
-Attached in email submission.
+Sketch your solution. And justify your design decisions:
+[HW1_Carroll_SketchPartB.pdf](https://github.com/tiara28307/CS-3366-HW1/files/3654173/HW1_Carroll_SketchPartB.pdf)
+If does not load attached in email submission.
 
 
 GETTING A:
